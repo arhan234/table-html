@@ -1,0 +1,32 @@
+<html>
+
+<body>
+<table border = "5" bordercolor= "red">
+<tr> <th> sr no </th>
+     <th> country </th>
+     <th> flag  </th>
+     </tr>
+  
+  <tr> <td  bgcolor="green"><center>1</center></td>
+       <td  bgcolor="green"><center>singapore</center> </td>
+       <td> <img src= "https://i0.wp.com/thekopi.co/wp-content/uploads/2019/11/sg-final.png?fit=1024%2C683&ssl=1"height= "80" width="80">
+       </tr>
+       
+    <tr> <td bgcolor="pink"><center>2</center>  </td>
+         <td bgcolor="pink"><center>india</center> </td>
+         <td> <img src="https://5.imimg.com/data5/SELLER/Default/2023/6/320145536/UJ/BL/QH/810622/indian-national-flag-500x500.webp" height= "80" width="80">
+         </tr>
+         
+      <tr> <td bgcolor="yellow"><center>3</center>  </td>
+           <td bgcolor="yellow"><center>china</center> </td>
+           <td> <img src="https://media.istockphoto.com/id/878587072/photo/china-flag-a-series-of-flags-of-the-world.jpg?s=612x612&w=0&k=20&c=UaEuM-KRtk71BDDNTVpmTO-wJS2TsC1D0PGcMxJyeyA=" height= "80" width="80">
+  </tr>
+  
+  <tr> <td bgcolor="yellow"><center>3</center>     </td>
+       <td bgcolor="yellow"><center>russia</center>  </td>
+       <td> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI7bwpA8ERtYx1XLR96TAn4j0Gjf1dQEHCkw&s" height="80" width="80">
+       </tr>
+  
+</body>
+
+</html>
