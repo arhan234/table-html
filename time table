@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<table BORDER="1" bordercolor="yellow" height=" 400" width= "700">
+<h1> TIME TABLE <h2>
+  <tr>
+    <th align="center" bgcolor="aqua">Day</th>
+    <th align="center" colspan="2">9:00AM-10:40AM</th>
+    
+    <th align="center">10:40AM-11:30AM</th>
+    <th align="center">11:30AM-12:20PM</th>
+    <th align="center">12:20PM-1:10AM</th>
+  </tr>
+  <tr>
+    <td align="center" bgcolor= "pink">Monday</td>
+    <td align="center" colspan="2">WT(th) </td>
+  
+    <td align="center">IKS </td>
+    <td align="center">SDG</td>
+    <td align="center">EOM </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="pink">Tuesday</td>
+    <td align="center">ITC-PROGRAMMING</td>
+    <td align="center">EOM</td>
+    <td align="center">SOFT SKILLS</td>
+    <td align="center">BREAK</td>
+	<td align="center">WT</td>
+  </tr>
+    <tr>
+    <td align="center" bgcolor="pink">WEDNASDAY</td>
+    <td align="center">WT(P) </td>
+    <td align="center">BREAK</td>
+    <td align="center">IKS </td>
+    <td align="center">IKS </td>
+    <td align="center">EOM </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="pink">THURSDAY</td>
+    <td align="center">ITC-PROGRAMMING</td>
+    <td align="center">EOM</td>
+    <td align="center">SOFT SKILLS</td>
+    <td align="center">BREAK</td>
+	<td align="center">WT</td>
+  </tr>
+    <tr>
+    <td align="center" bgcolor="pink">FRIDAY</td>
+    <td align="center">ITC-PROGRAMMING</td>
+    <td align="center">EOM</td>
+    <td align="center">SOFT SKILLS</td>
+    <td align="center">BREAK</td>
+	<td align="center">WT</td>
+  </tr>
+</table>
+</body>
+</html>
+</body>
+</html>
