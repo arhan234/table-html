@@ -1,0 +1,22 @@
+<html>
+<head>
+  <title>Simple Form</title>
+</head>
+<body>
+  <form>
+    First Name:&nbsp&nbsp
+    <input type="text" name="firstname"  placeholder="yup" > <br> <br>
+
+    Last Name:&nbsp&nbsp 
+    <input type="text" name="lastname"  placeholder="yup" > <br> <br>
+
+    Email:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <input type="email" name="email" placeholder="yup" > <br> <br>
+
+    Password:&nbsp&nbsp&nbsp&nbsp
+    <input type="password" name="password"  placeholder="yup"> <br> <br>
+
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input   type="submit"   value="Submit">
+  </form>
+</body>
+</html>
