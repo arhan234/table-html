@@ -15,6 +15,17 @@
 
     Password:&nbsp&nbsp&nbsp&nbsp
     <input type="password" name="password"  placeholder="yup"> <br> <br>
+    
+    picture :&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp<input type="file"name=" fileupload"accept="image/*"placeholder="select picture"> <br><br>
+    
+    subjects &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <select>
+<option value="maths"> maths </option>
+<option value="maths"> science </option>
+<option value="maths"> sst</option>
+<option value="maths"> english </option>
+<option value="maths"> hindi </option>
+</select> <br> <br>
+
 
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input   type="submit"   value="Submit">
   </form>
