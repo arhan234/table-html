@@ -4,27 +4,41 @@
 </head>
 <body>
   <form>
-    First Name:&nbsp&nbsp
+  <fieldset>
+    <legend >Personal Information</legend>
+
+    First Name:<br>
     <input type="text" name="firstname"  placeholder="yup" > <br> <br>
 
-    Last Name:&nbsp&nbsp 
+    Last Name:<br>
     <input type="text" name="lastname"  placeholder="yup" > <br> <br>
 
-    Email:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    <input type="email" name="email" placeholder="yup" > <br> <br>
+    Email:<br>
+    <input type="text" name="email" placeholder="yup" > <br> <br>
 
-    Password:&nbsp&nbsp&nbsp&nbsp
+    Password:<br>
     <input type="password" name="password"  placeholder="yup"> <br> <br>
     
-    picture :&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp<input type="file"name=" fileupload"accept="image/*"placeholder="select picture"> <br><br>
+    Enter your gender:<br>
+    <input type="radio" name="male" value="male"> male
+     <input type="radio" name="fenale" value="female"> female
+      <input type="radio" name="others" value="others"> others<br> <br>
+      
+      Enter date of birth: <br>   <input type="date"><br><br>
     
-    subjects &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <select>
-<option value="maths"> maths </option>
-<option value="maths"> science </option>
-<option value="maths"> sst</option>
-<option value="maths"> english </option>
-<option value="maths"> hindi </option>
+    
+    Enter your address:<br>
+    <input type="address" name="address" placeholder="delhi"> <br> <br>
+    
+    
+    LANGUAGE: <br> <select>
+<option value="Hindi"> maths </option>
+<option value="English"> science </option>
+<option value="French"> sst</option>
+<option value="German"> english </option>
+<option value="Japnese"> hindi </option>
 </select> <br> <br>
+ Please upload your photograph: <br><input type="file"name=" fileupload"accept="image/*"placeholder="select picture"> <br><br>
 
 
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input   type="submit"   value="Submit">
