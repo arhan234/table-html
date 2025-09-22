@@ -1,47 +1,43 @@
 <html>
-<head>
-  <title>Simple Form</title>
-</head>
 <body>
-  <form>
-  <fieldset>
-    <legend >Personal Information</legend>
+<form>
+ <fieldset>
+      <legend>User Personal Information</legend>
 
-    First Name:<br>
-    <input type="text" name="firstname"  placeholder="yup" > <br> <br>
+    Enter your Full Name:<br><input type="text" name="firstname" placeholder="Aage wala naam"><br><br>
 
-    Last Name:<br>
-    <input type="text" name="lastname"  placeholder="yup" > <br> <br>
+    Enter your Email:<br><input type="email" name="email" placeholder="Email address"><br><br>
 
-    Email:<br>
-    <input type="text" name="email" placeholder="yup" > <br> <br>
-
-    Password:<br>
-    <input type="password" name="password"  placeholder="yup"> <br> <br>
+    Enter your Password:<br><input type="password" name="password" placeholder="Password"><br><br>
     
-    Enter your gender:<br>
-    <input type="radio" name="male" value="male"> male
-     <input type="radio" name="fenale" value="female"> female
-      <input type="radio" name="others" value="others"> others<br> <br>
-      
-      Enter date of birth: <br>   <input type="date"><br><br>
+    Confirm your Password:<br><input type="password" name="password" placeholder="Confirm Password"><br><br>
     
+    Enter your Gender:<br>
+    <input type="radio" name="options" value="option1"> Male&nbsp&nbsp
+    <input type="radio" name="options" value="option2"> Female&nbsp&nbsp
+	<input type="radio" name="options" value="option3"> Others<br><br>
     
-    Enter your address:<br>
-    <input type="address" name="address" placeholder="delhi"> <br> <br>
+	Enter your DOB:<br><input type="date"><br><br>
     
-    
-    LANGUAGE: <br> <select>
-<option value="Hindi"> maths </option>
-<option value="English"> science </option>
-<option value="French"> sst</option>
-<option value="German"> english </option>
-<option value="Japnese"> hindi </option>
-</select> <br> <br>
- Please upload your photograph: <br><input type="file"name=" fileupload"accept="image/*"placeholder="select picture"> <br><br>
+    Enter your Address:<br><input type="text" name="address" placeholder="Ghar ka pta"><br><br>
 
+	Language:<br><select>
+    <option value="English">English</option>
+    <option value="Hindi">Hindi</option>
+	<option value="Malayalam">Malayalam</option>
+    <option value="Urdu">Urdu</option>
+    </select><br><br>
+  	
+    Please upload your photo:<br><input type="file"name="fileupload"accept="image/*"placeholder="Select Picture"><br><br>
+    
+   Ug Degree duration:<br> <input type="range" min="0" max="4" value="7"/>
+    <span>Year's</span><br><br>
+    
+    Hey click the link:<br><a href="https://www.youtube.com/watch?v=6Hee7YVJs-0">Not a Rickroll🙂</a><br><br>
 
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input   type="submit"   value="Submit">
-  </form>
+<input type="submit" value="Submit">
+
+</form>
+
 </body>
 </html>
